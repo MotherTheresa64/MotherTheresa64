@@ -35,4 +35,4 @@ This GitHub also contains coursework, exercises, and earlier project iterations 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/njragandev/) · [GitHub](https://github.com/MotherTheresa64)
+[Portfolio](https://noahragan-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/njragandev/) · [GitHub](https://github.com/MotherTheresa64)
