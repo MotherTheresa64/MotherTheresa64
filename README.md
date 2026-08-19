@@ -20,6 +20,12 @@ PostgreSQL · SQL · SQLite · Firebase / Firestore
 **Tools & Workflow**  
 Git · GitHub · GitHub Actions · Postman · VS Code · DBeaver · Figma · CI/CD
 
+## Portfolio
+
+🌐 [noahragan-portfolio.vercel.app](https://noahragan-portfolio.vercel.app/)
+
+My developer portfolio featuring my work, technical background, and current projects.
+
 ## Education & Credentials
 
 **Coding Temple — Software Engineering Certificate of Completion**  
@@ -35,4 +41,4 @@ This GitHub also contains coursework, exercises, and earlier project iterations 
 
 ## Connect
 
-[Portfolio](https://noahragan-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/njragandev/) · [GitHub](https://github.com/MotherTheresa64)
+[LinkedIn](https://www.linkedin.com/in/njragandev/) · [GitHub](https://github.com/MotherTheresa64)
