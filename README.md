@@ -20,26 +20,6 @@ PostgreSQL · SQL · SQLite · Firebase / Firestore
 **Tools & Workflow**  
 Git · GitHub · GitHub Actions · Postman · VS Code · DBeaver · Figma · CI/CD
 
-## Featured Projects
-
-### [Inventory Tracker](https://github.com/MotherTheresa64/inventory-tracker)
-A full-stack inventory workflow application built around real operational needs, including product and location management, barcode-scanning workflows, fill lists, activity tracking, and backroom organization.
-
-### [TaskForge](https://github.com/MotherTheresa64/TaskForge)
-A responsive Kanban-style job application tracker built with React, TypeScript, Tailwind CSS, Firebase Authentication, Firestore, and drag-and-drop interactions.
-
-### [Advanced API Final](https://github.com/MotherTheresa64/Advanced-API-Final)
-A Flask REST API project featuring modular routing, schemas, automated tests, environment configuration, and a GitHub Actions CI workflow.
-
-### [Advanced Ecommerce App - Firebase](https://github.com/MotherTheresa64/Advanced-Ecommerce-App-Firebase)
-A React and TypeScript e-commerce application with authentication, protected routes, state management, cart and checkout flows, administration features, and Firebase integration.
-
-### [Service Center CI/CD](https://github.com/MotherTheresa64/Service-Center-CI-CD)
-A Flask service-center API demonstrating modular blueprints, automated testing, Swagger/OpenAPI documentation, and GitHub Actions CI/CD.
-
-### [Portfolio Website](https://github.com/MotherTheresa64/portfolio-website)
-My personal developer portfolio built with React, TypeScript, Vite, and Tailwind CSS.
-
 ## Education & Credentials
 
 **Coding Temple — Software Engineering Certificate of Completion**  
@@ -55,4 +35,4 @@ This GitHub also contains coursework, exercises, and earlier project iterations 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/njragandev/) · [GitHub](https://github.com/MotherTheresa64)
+[LinkedIn](https://www.linkedin.com/in/njragandev/) · [GitHub](https://github.com/MotherTherresa64)
